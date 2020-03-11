@@ -7,4 +7,4 @@ règle de jeu:
     3 points : B ×2, C ×2, P ×2
     4 points : F ×2, H ×2, V ×2
     8 points : J ×1, Q ×1
-    10 points : K ×1, W ×1, X ×1, Y ×1, Z ×1
+    10 points : K ×1, W ×1, X ×1, Y ×1, Z ×1 
